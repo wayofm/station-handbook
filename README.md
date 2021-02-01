@@ -1,11 +1,11 @@
 # WAYO 104.3FM ("WAYO") Station Handbook
 
 ## Station Mission Statement
-text text text
+WAYO provides a broadcast platform for Greater Rochester residents to express their passions, ideas, and artistry, and to foster diverse programming, creative freedom, social engagement, and community collaboration.
 
 ## Glossary
 ### Living Document
-This Handbook is intended to be a *Living Document*. That means the Crew of WAYO is welcome to make edits, revisions, or updates to these guidelines when the need arises. The process to revise this Handbook is outlined later in the handbook and should be led by the Steering Committee.
+This handbook is intended to be a *Living Document*. That means the Crew of WAYO is welcome to make edits, revisions, or updates to these guidelines when the need arises. The process to revise this Handbook is outlined later in the handbook and should be led by the Steering Committee.
 ### Roles
 **CREW**: Crew serve on workgroups to directly support the operation and direction of WAYO
 
@@ -73,3 +73,6 @@ The Public Facing domain includes workgroups that focus on WAYO’s brand and pu
 - **Website**
   - **Main Responsibilities**: Maintains and updates WAYO’s public website and associated integrations; provides website training
   - **Link to Charter**: TBD!
+## Accordion Structure
+## Charters
+## Steering Committee
