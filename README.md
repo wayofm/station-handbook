@@ -74,6 +74,25 @@ The Public Facing domain includes workgroups that focus on WAYO’s brand and pu
   - **Main Responsibilities**: Maintains and updates WAYO’s public website and associated integrations; provides website training
   - **Link to Charter**: TBD!
 ## Accordion Structure
+The Accordion Structure is a strategy that can be used to accommodate periods of decreased staffing on Crew. It allows workgroups to combine and then divide again as needed to ensure sufficient representation across each domain and ultimately, to accomplish the important work of the individual workgroups and reduce burnout.
+### How it Works
+When to enact the Accordion Structure:
+- When 1 or more workgroups within a single domain has only 1 crew member or has two crew members and wishes to enact the Accordion Structure
+  - This workgroup can be considered “depleted” and the Accordion Structure should be enacted for that domain
+
+How to enact the Accordion Structure:
+- When a workgroup becomes depleted, the depleted workgroup must notify the Steering Committee that there is a need to enact the Accordion Structure. If there are no crew members left in the depleted workgroup, a remaining group in the domain must handle this notification process if the Steering Committee is not already aware. 
+- The Steering Committee will then facilitate the combination of the workgroups in that domain to form one, larger workgroup, named after the domain. The Operations workgroup will support any logistical needs of the workgroup combination, e.g., Slack updates.
+- If it does not already exist, the domain workgroup must draft a new charter to reflect the combined interests, goals, and responsibilities of all domain sub-groups. The Steering Committee should oversee this process and approve the drafted charter to ensure it is comprehensive.
+- This new workgroup will operate in “skeleton mode” until the time it can divide into sub-groups again. That is, the workgroup will focus primarily on the tasks considered essential to each of the sub-groups.
+- In order to maximize group cohesion, the combined group’s crew members should no longer consider themselves members of the prior sub-group that they served on, but rather simply a part of the larger domain workgroup. 
+- Simultaneously, both the combined group and the People & Placement workgroups will work to recruit new members to the combined workgroup in order to replenish the depleted workgroup.
+
+How to Reverse the Accordion Structure:
+- When the Accordion Structure is enacted for a domain, the goal should be to ultimately expand again to reinstate unique workgroups for each sub-domain. To that end, the Steering Committee should periodically “take the temperature” of the workgroup in skeleton mode to see if members are ready to expand again to full capacity. This check-in should occur at least monthly.
+  - It may take some time for the depleted workgroup to be ready to reverse the Accordion Structure. The combined workgroup should consider factors including (but not limited to), the number of members in the combined workgroup who would join each sub-group, the comfort level of group members with expanding again, any onboarding or orientation time needed to get new members up to speed, etc.
+- When a workgroup in skeleton mode feels ready to reverse the Accordion Structure, the workgroup must approve the reversal based on the decision making process outlined in its charter.
+- Once the workgroup has approved to expand again, the Steering Committee must then approve the decision to divide the workgroup based on the best interests of the station.
 ## Workgroup Charters
 Each workgroup defines and maintains a charter, a living document that describes the group's responsibilities, meetings, and how the group interacts with other workgroups. Each charter must answer the following questions, although a workgroup may include additional information:
 - What is this group’s mission?*
@@ -100,3 +119,5 @@ When a workgroup is initially formed and has not been fully staffed, a basic ver
 - Are there any requirements for joining? (optional)
 Once the recuitment period is over and an appropriate number of crew have joined the workgroup, the workgroup should prioritize the drafting of a complete charter.
 ## Steering Committee
+
+
