@@ -117,6 +117,7 @@ When a workgroup is initially formed and has not been fully staffed, a basic ver
 - What is this group’s mission?
 - What are this group’s responsibilities?
 - Are there any requirements for joining? (optional)
+
 Once the recuitment period is over and an appropriate number of crew have joined the workgroup, the workgroup should prioritize the drafting of a complete charter.
 ## Steering Committee
 
