@@ -6,7 +6,7 @@ WAYO provides a broadcast platform for Greater Rochester residents to express th
 ## Glossary
 ### Living Document
 This handbook is intended to be a *Living Document*. That means the Crew of WAYO is welcome to make edits, revisions, or updates to these guidelines when the need arises. The process to revise this Handbook is outlined later in the handbook and should be led by the Steering Committee.
-### Roles
+### Station Roles
 **CREW**: Crew serve on workgroups to directly support the operation and direction of WAYO
 
 **PROGRAMMERS**: Programmers host shows, and are encouraged to serve as **crew** or as **volunteers** (and vice versa)
@@ -74,27 +74,29 @@ The Public Facing domain includes workgroups that focus on WAYO’s brand and pu
   - **Main Responsibilities**: Maintains and updates WAYO’s public website and associated integrations; provides website training
   - **Link to Charter**: TBD!
 ## Accordion Structure
-The Accordion Structure is a strategy that can be used to accommodate periods of decreased staffing on Crew. It allows workgroups to combine and then divide again as needed to ensure sufficient representation across each domain and ultimately, to accomplish the important work of the individual workgroups and reduce burnout.
+The Accordion Structure is a strategy that can be used to accommodate periods of decreased crew staffing. It allows workgroups to combine and then divide again as needed to ensure sufficient representation and accountability across each domain and ultimately, to accomplish the important work of the individual workgroups and reduce burnout.
 ### How it Works
-When to enact the Accordion Structure:
+**When to enact the Accordion Structure:**
 - When 1 or more workgroups within a single domain has only 1 crew member or has two crew members and wishes to enact the Accordion Structure
-  - This workgroup can be considered “depleted” and the Accordion Structure should be enacted for that domain
+  - This workgroup can be considered **depleted** and the Accordion Structure should be enacted for that domain
 
-How to enact the Accordion Structure:
+**NOTE:** The Guidance domain is a special case which cannot enact the Accordion Structure. In the case of a short-staffed **Money** workgroup, the Steering Committee may provide support for the Money group or assume its responsibilities entirely. See the Steering Committee section below for more information.  
+
+**How to enact the Accordion Structure:**
 - When a workgroup becomes depleted, the depleted workgroup must notify the Steering Committee that there is a need to enact the Accordion Structure. If there are no crew members left in the depleted workgroup, a remaining group in the domain must handle this notification process if the Steering Committee is not already aware. 
-- The Steering Committee will then facilitate the combination of the workgroups in that domain to form one, larger workgroup, named after the domain. The Operations workgroup will support any logistical needs of the workgroup combination, e.g., Slack updates.
+- The Steering Committee will then facilitate the combination of the workgroups in that domain to form one larger workgroup, named after the domain. The Operations workgroup will support any logistical needs of the workgroup combination, e.g., Slack updates.
 - If it does not already exist, the domain workgroup must draft a new charter to reflect the combined interests, goals, and responsibilities of all domain sub-groups. The Steering Committee should oversee this process and approve the drafted charter to ensure it is comprehensive.
-- This new workgroup will operate in “skeleton mode” until the time it can divide into sub-groups again. That is, the workgroup will focus primarily on the tasks considered essential to each of the sub-groups.
+- This new workgroup will operate in “skeleton crew” mode until the time it can divide into sub-groups again. That is, the workgroup will focus primarily on the tasks considered essential to each of the sub-groups.
 - In order to maximize group cohesion, the combined group’s crew members should no longer consider themselves members of the prior sub-group that they served on, but rather simply a part of the larger domain workgroup. 
 - Simultaneously, both the combined group and the People & Placement workgroups will work to recruit new members to the combined workgroup in order to replenish the depleted workgroup.
 
-How to Reverse the Accordion Structure:
-- When the Accordion Structure is enacted for a domain, the goal should be to ultimately expand again to reinstate unique workgroups for each sub-domain. To that end, the Steering Committee should periodically “take the temperature” of the workgroup in skeleton mode to see if members are ready to expand again to full capacity. This check-in should occur at least monthly.
-  - It may take some time for the depleted workgroup to be ready to reverse the Accordion Structure. The combined workgroup should consider factors including (but not limited to), the number of members in the combined workgroup who would join each sub-group, the comfort level of group members with expanding again, any onboarding or orientation time needed to get new members up to speed, etc.
-- When a workgroup in skeleton mode feels ready to reverse the Accordion Structure, the workgroup must approve the reversal based on the decision making process outlined in its charter.
+**How to Reverse the Accordion Structure:**
+- When the Accordion Structure is enacted for a domain, the goal should be to ultimately expand again to reinstate unique workgroups for each sub-domain. To that end, the Steering Committee should periodically “take the temperature” of the workgroup in skeleton crew mode to see if members are ready to expand again to full capacity. This check-in should occur at least monthly.
+  - It may take some time for the depleted workgroup to be ready to reverse the Accordion Structure. The combined workgroup should consider factors including (but not limited to) the number of members in the combined workgroup who would join each sub-group, the comfort level of group members with expanding again, any onboarding or orientation time needed to get new members up to speed, etc.
+- When a workgroup in skeleton crew mode feels ready to reverse the Accordion Structure, the workgroup must approve the reversal based on the decision making process outlined in its charter.
 - Once the workgroup has approved to expand again, the Steering Committee must then approve the decision to divide the workgroup based on the best interests of the station.
 ## Workgroup Charters
-Each workgroup defines and maintains a charter, a living document that describes the group's responsibilities, meetings, and how the group interacts with other workgroups. Each charter must answer the following questions, although a workgroup may include additional information:
+Each workgroup defines and maintains a **charter**: a living document that describes the group's responsibilities, meetings, and how the group interacts with other workgroups. Each charter must answer the following questions, although a workgroup may include additional information:
 - What is this group’s mission?*
 - What are this group’s responsibilities?*
 - How can people contact this group? (Slack channel, Slack user group, email address, etc)
@@ -120,5 +122,30 @@ When a workgroup is initially formed and has not been fully staffed, a basic ver
 
 Once the recuitment period is over and an appropriate number of crew have joined the workgroup, the workgroup should prioritize the drafting of a complete charter.
 ## Steering Committee
+The **Steering Committee** workgroup has certain unique attributes compared to other workgroups:
+
+- Steering Committee membership is limited to a maximum of 7 people at any given time, and a minimum of 5 people in "skeleton crew" mode.
+- Members of the Steering Committee commit to serving 2 year terms, after which they must resign from the Steering Committee.
+  - Past Steering Committee members become eligible to serve again 2 years after their most recent term ends. 
+- Terms are staggered, such that approximately half of the Committee changes over each year.
+  - Example: 3 members start a 2-year term in 2021, then 4 members start a 2-year term in 2022.
+- To be eligible to serve on the Steering Committee, a person must have been a WAYO **programmer** or **crew** member (on another workgroup) for at least 1 year.
+  - Exceptions to this rule can be made in the name of diversity.
+- In any given year, when new Steering Committee members have been selected, there will be an overlap period of one month where all current, incoming, and outgoing members collaborate to onboard the new members and align their efforts to ensure a consistency of vision.         
+- (WIP)
+
+Different requirements from other workgroups
+7 members, but could flex down to 5 in a short-staffed scenario
+Must have been a programmer or crew for 1 year before you can serve here (exceptions can be made in name of diversity)
+Staggered term limits: 2 year terms, half of group (3 or 2 people) changes every year
+Overlap period - outgoing and ingoing members collaborate for consistency of vision (January)
+Process for people to apply / programmers to approve appointed people
+Interviews held by current Mission/Vision group and People group
+Formula to award points to applicants
+1 point per year volunteering with WAYO
+X points for an identity that is not currently represented in group
+Qualitative points (personality fit, relevant experience, etc)
+Diversity requirements
+More strict decision making process
 
 
