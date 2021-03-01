@@ -15,14 +15,14 @@ This handbook is intended to be a *Living Document*. That means the Crew of WAYO
 ## Workgroups Overview
 A **workgroup** is a small group of **crew** working towards the same goal, with occasional help from **volunteers**.
 
-- Each workgroup operates according to guidelines defined in their group's charter.
+- Each workgroup operates according to guidelines defined in their group's charter
 - Workgroups have regularly scheduled meetings
 - Workgroup members hold each other accountable and train each other on common tasks
 - Workgroups interface with each other to accomplish tasks that involve more than one area of expertise
 - An individual can serve in more than one workgroup at a time, but it is recommended that they do not serve in more than **3** at once
 
 ## WAYO Workgroups
-Workgroups at WAYO are categorized by the sector or domain they fall into. There are 6 of these domains: 
+Workgroups at WAYO are categorized by the domain they fall into. There are 6 of these domains: 
 ### Guidance
 The Guidance domain includes workgroups that focus on station-wide and/or high significance work, including but not limited to: WAYO's mission & vision, finances, crisis communications, and strategic planning for the station.
 - **Steering Committee**
@@ -94,7 +94,7 @@ The Accordion Structure is a strategy that can be used to accommodate periods of
 - When the Accordion Structure is enacted for a domain, the goal should be to ultimately expand again to reinstate unique workgroups for each sub-domain. To that end, the Steering Committee should periodically “take the temperature” of the workgroup in skeleton crew mode to see if members are ready to expand again to full capacity. This check-in should occur at least monthly.
   - It may take some time for the depleted workgroup to be ready to reverse the Accordion Structure. The combined workgroup should consider factors including (but not limited to) the number of members in the combined workgroup who would join each sub-group, the comfort level of group members with expanding again, any onboarding or orientation time needed to get new members up to speed, etc.
 - When a workgroup in skeleton crew mode feels ready to reverse the Accordion Structure, the workgroup must approve the reversal based on the decision making process outlined in its charter.
-- Once the workgroup has approved to expand again, the Steering Committee must then approve the decision to divide the workgroup based on the best interests of the station.
+- Once the workgroup has agreed to expand again, the Steering Committee must then approve the decision to divide the workgroup based on the best interests of the station.
 ## Workgroup Charters
 Each workgroup defines and maintains a **charter**: a living document that describes the group's responsibilities, meetings, and how the group interacts with other workgroups. Each charter must answer the following questions, although a workgroup may include additional information:
 - What is this group’s mission?*
