@@ -126,7 +126,8 @@ The **Steering Committee** workgroup has certain unique attributes compared to o
 
 - Steering Committee membership is limited to a maximum of 7 people at any given time, and a minimum of 5 people in "skeleton crew" mode.
 - Members of the Steering Committee commit to serving 2 year terms, after which they must resign from the Steering Committee.
-  - Past Steering Committee members become eligible to serve again 2 years after their most recent term has ended. 
+  - Past Steering Committee members become eligible to serve again 2 years after their most recent term has ended.
+  - Past Steering Committee members may serve on other WAYO workgroups. 
 - Terms are staggered, such that approximately half of the Committee changes over each year.
   - Example: 3 members start a 2-year term in 2021, then 4 members start a 2-year term in 2022.
 - To be eligible to serve on the Steering Committee, a person must have been a WAYO **programmer** or **crew** member (on another workgroup) for at least 1 year.
