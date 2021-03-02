@@ -126,26 +126,18 @@ The **Steering Committee** workgroup has certain unique attributes compared to o
 
 - Steering Committee membership is limited to a maximum of 7 people at any given time, and a minimum of 5 people in "skeleton crew" mode.
 - Members of the Steering Committee commit to serving 2 year terms, after which they must resign from the Steering Committee.
-  - Past Steering Committee members become eligible to serve again 2 years after their most recent term ends. 
+  - Past Steering Committee members become eligible to serve again 2 years after their most recent term has ended. 
 - Terms are staggered, such that approximately half of the Committee changes over each year.
   - Example: 3 members start a 2-year term in 2021, then 4 members start a 2-year term in 2022.
 - To be eligible to serve on the Steering Committee, a person must have been a WAYO **programmer** or **crew** member (on another workgroup) for at least 1 year.
   - Exceptions to this rule can be made in the name of diversity.
-- In any given year, when new Steering Committee members have been selected, there will be an overlap period of one month where all current, incoming, and outgoing members collaborate to onboard the new members and align their efforts to ensure a consistency of vision.         
-- (WIP)
-
-Different requirements from other workgroups
-7 members, but could flex down to 5 in a short-staffed scenario
-Must have been a programmer or crew for 1 year before you can serve here (exceptions can be made in name of diversity)
-Staggered term limits: 2 year terms, half of group (3 or 2 people) changes every year
-Overlap period - outgoing and ingoing members collaborate for consistency of vision (January)
-Process for people to apply / programmers to approve appointed people
-Interviews held by current Mission/Vision group and People group
-Formula to award points to applicants
-1 point per year volunteering with WAYO
-X points for an identity that is not currently represented in group
-Qualitative points (personality fit, relevant experience, etc)
-Diversity requirements
-More strict decision making process
-
-
+- WAYO station leadership as of March 2021 will collaborate to define the process for recruiting initial Steering Committee members. The process must meet these requirements: 
+  - The process must be defined in writing and published in the WAYO GitHub organization.
+  - An eligible person who wishes to serve on the Steering Committee must submit an application.
+  - A body of at least 3 people (and not comprised solely of WAYO station leadership) must be formed to review applications and interview applicants. Starting in 2022, these reviews and interviews will be handled by the current Steering Committee along with the People & Placement workgroup (or Day to Day domain workgroup, if People & Placement is depleted).
+  - After an interview, each interviewer will privately evaluate the applicant, awarding points in a variety of qualitative categories. For example: award 1-5 points for the applicant's communication skills, award 1-5 points for relevant experience. 
+  - Each applicant will also be automatically awarded points in a variety of factual categories. For example: award 1 point for each year the applicant has volunteered for WAYO, award 10 points if the applicant's identity does not currently have representation on the Steering Committee.
+  - The applicant's final "score" will be calculated by summing the average rating of each qualitative category along with the points from the factual categories. The applicants with the highest point values will become the nominees.
+  - Finally, the nominees will be presented to the WAYO programmer body for approval by majority vote. If a nominee is rejected by the programmer body, the applicant with the next highest point total becomes nominated and the process repeats. Approved nominees become members of the Steering Committee.
+  - For the initial 2021 Steering Committee recruitment, 3 of the approved nominees, selected at random, will serve a 1-year term instead of 2 years.   
+- In any given year, when new Steering Committee members have been selected, there will be an overlap period of approximately one month where all current, incoming, and outgoing members collaborate to onboard the new members and align their efforts to ensure a consistency of vision.         
