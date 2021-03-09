@@ -47,7 +47,7 @@ A **workgroup** is a small group of **crew** working towards the same goal, with
 Workgroups at WAYO are categorized by the domain they fall into. There are 6 of these domains: 
 #### Guidance
 The Guidance domain includes workgroups that focus on station-wide and/or high significance work, including but not limited to: WAYO's mission & vision, finances, crisis communications, and strategic planning for the station.
-- **Steering Committee**
+- **Steering Committee** (this workgroup has unique attributes; see the [Steering Committee section](#steering-committee) below for more information)
   - **Main Responsibilities**: Provides guidance towards fulfillment of WAYO's mission & vision
   - **Link to Charter**: TBD!
 - **Money**
