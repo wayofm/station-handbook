@@ -2,7 +2,7 @@
 Version 0.0.1 - 03/XX/2021
 
 ## Introduction
-This handbook is maintained by the WAYO Steering Committee and is intended to be a **Living Document**. This means that WAYO crew are welcome to propose edits, revisions, or updates to these guidelines when the need arises. For more information, see the "Living Document" entry in the Glossary below, and the "Updating Living Documents" entry in the Procedures section further down.
+This handbook is maintained by the WAYO Steering Committee and is intended to be a **Living Document**. This means that WAYO crew are welcome to propose edits, revisions, or updates to these guidelines when the need arises. For more information, see the "Living Document" entry in the [Glossary](#glossary), and the "Updating Living Documents" entry in the [Procedures](#procedures) section.
 
 ## Station Mission Statement
 WAYO provides a broadcast platform for Greater Rochester residents to express their passions, ideas, and artistry, and to foster diverse programming, creative freedom, social engagement, and community collaboration.
