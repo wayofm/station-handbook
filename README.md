@@ -26,6 +26,8 @@ Each document has a version number like `1.10.2`, following the concept of [Sema
 - A change to a policy or procedure, or any change that would modify WAYO's operations, is considered a **minor** version update and results in the second number increasing (i.e. `1.10.2` -> `1.11.0`)
 - A change that amounts to a complete overhaul of a given document is considered a **major** version update and results in the first number increasing (i.e. `1.10.2` -> `2.0.0`)
 
+A document's version number should be listed near the top of the document along with the version's date of publication.
+
 ### Station Roles
 **CREW**: Crew serve on workgroups to directly support the operation and direction of WAYO
 
