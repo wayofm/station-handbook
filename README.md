@@ -11,7 +11,7 @@ WAYO provides a broadcast platform for Greater Rochester residents to express th
 ### Living Document
 Important WAYO documentation is maintained as **Living Documents**. A Living Document is never "final"; each document can be updated when needed and the station operates based upon the contents of each document's latest version. 
 
-WAYO's Living Documents are stored in the [wayofm organization](https://github.com/wayofm/) on GitHub, which has built-in features to track the change history of each document and to allow change proposals to be reviewed and approved. See the "Updating Living Documents" entry in the Procedures section below for more information. 
+WAYO's Living Documents are stored in the [wayofm organization](https://github.com/wayofm/) on GitHub, which has built-in features to track the change history of each document and to allow change proposals to be reviewed and approved. See the "Updating Living Documents" entry in the [Procedures](#procedures) section for more information. 
 
 Each document has a version number like `1.10.2`, following the concept of [Semantic Versioning](https://semver.org/):
 - A small correction (fixing spelling, improving clarity) is considered a **patch** version update and results in the third number increasing (i.e. `1.10.2` -> `1.10.3`)
