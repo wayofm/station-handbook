@@ -1,11 +1,23 @@
 # WAYO 104.3FM ("WAYO") Station Handbook
+Version 0.0.1 - 03/XX/2021
+
+## Introduction
+This handbook is maintained by the WAYO Steering Committee and is intended to be a **Living Document**. This means that WAYO crew are welcome to propose edits, revisions, or updates to these guidelines when the need arises. For more information, see the "Living Document" entry in the Glossary below, and the "Updating Living Documents" entry in the Procedures section further down.
 
 ## Station Mission Statement
 WAYO provides a broadcast platform for Greater Rochester residents to express their passions, ideas, and artistry, and to foster diverse programming, creative freedom, social engagement, and community collaboration.
 
 ## Glossary
 ### Living Document
-This handbook is intended to be a *Living Document*. That means the Crew of WAYO is welcome to make edits, revisions, or updates to these guidelines when the need arises. The process to revise this Handbook is outlined later in the handbook and should be led by the Steering Committee.
+Important WAYO documentation is maintained as **Living Documents**. A Living Document is never "final"; each document can be updated when needed and the station operates based upon the contents of each document's latest version. 
+
+WAYO's Living Documents are stored in the [wayofm organization](https://github.com/wayofm/) on GitHub, which has built-in features to track the change history of each document and to allow change proposals to be reviewed and approved. See the "Updating Living Documents" entry in the Procedures section for more information. 
+
+Each document has a version number like "1.10.2", following the concept of [Semantic Versioning](https://semver.org/):
+- A small correction (fixing spelling, improving clarity) is considered a **patch** version update and results in the third number increasing (i.e. `1.10.2` -> `1.10.3`)
+- A change to a policy or procedure, or any change that would modify WAYO's operations, is considered a **minor** version update and results in the second number increasing (i.e. `1.10.2` -> `1.11.0`)
+- A change that amounts to a complete overhaul of a given document is considered a **major** version update and results in the first number increasing (i.e. `1.10.2` -> `2.0.0`)
+
 ### Station Roles
 **CREW**: Crew serve on workgroups to directly support the operation and direction of WAYO
 
@@ -142,3 +154,8 @@ The **Steering Committee** workgroup has certain unique attributes compared to o
   - Finally, the nominees will be presented to the WAYO programmer body for approval by majority vote. If a nominee is rejected by the programmer body, the applicant with the next highest point total becomes nominated and the process repeats. Approved nominees become members of the Steering Committee.
   - For the initial 2021 Steering Committee recruitment, 3 of the approved nominees, selected at random, will serve a 1-year term instead of 2 years.   
 - In any given year, when new Steering Committee members have been selected, there will be an overlap period of approximately one month where all current, incoming, and outgoing members collaborate to onboard the new members and align their efforts to ensure a consistency of vision.         
+
+## Policies
+
+## Procedures
+
