@@ -1,4 +1,4 @@
-# WAYO 104.3FM ("WAYO") Station Handbook
+# WAYO-LP 104.3FM ("WAYO") Station Handbook
 
 Version 0.0.1 - 03/XX/2021
 
@@ -6,49 +6,40 @@ Version 0.0.1 - 03/XX/2021
 
 - [Introduction](#introduction)
 - [Station Mission Statement](#station-mission-statement)
-- [Glossary](#glossary)
+- [Station Roles](#station-roles)
 - [Workgroups](#workgroups)
 - [Policies](#policies)
 - [Procedures](#procedures)
 
 ## Introduction
 
-This handbook is maintained by the WAYO Steering Committee and is intended to be a [Living Document](#living-document). This means that WAYO crew are welcome to propose edits, revisions, or updates to these guidelines when the need arises. For more information, see the [Living Document](#living-document) entry in the [Glossary](#glossary), and the [Updating Living Documents](#updating-living-documents) entry in the [Procedures](#procedures) section.
+This handbook is maintained by the WAYO Steering Committee and is intended to be a [living document](#living-documents). This means that WAYO crew are welcome to propose edits, revisions, or updates to these guidelines when the need arises. For more information, see [Living Documents](#living-documents) and [Updating Living Documents](#updating-living-documents) later in this handbook.
 
 ## Station Mission Statement
 
 WAYO provides a broadcast platform for Greater Rochester residents to express their passions, ideas, and artistry, and to foster diverse programming, creative freedom, social engagement, and community collaboration.
 
-## Glossary
+## Station Roles
 
-### Living Document
+At a high level, individuals with direct involvement in WAYO's operations can be categorized into three roles as outlined below. Overlap between roles is encouraged; crew are welcome to apply to become programmers, programmers are welcome to serve as crew or volunteers, and so forth. 
 
-Important WAYO documentation is maintained as **Living Documents**. A Living Document is always evolving; each document can be updated when needed and the station operates based upon the contents of each document's latest version. 
+### Crew
 
-WAYO's Living Documents are stored in the [wayofm organization](https://github.com/wayofm/) on GitHub, which has built-in features to track the change history of each document and to allow change proposals to be reviewed and approved. See the "Updating Living Documents" entry in the [Procedures](#procedures) section for more information. 
+Crew serve on [workgroups](#workgroups) to directly support the operation and growth of WAYO. 
 
-#### Versioning 
+### Programmers
 
-Each document has a three-part version number like `1.10.2`, following the concept of [Semantic Versioning](https://semver.org/):
-- A small correction (fixing spelling, improving clarity) is considered a **patch** version update and results in the third number increasing (i.e. `1.10.2` -> `1.10.3`)
-- A change to a policy or procedure, or any change that would modify WAYO's operations, is considered a **minor** version update and results in the second number increasing (i.e. `1.10.2` -> `1.11.0`)
-- A change that amounts to a complete overhaul of a given document is considered a **major** version update and results in the first number increasing (i.e. `1.10.2` -> `2.0.0`)
+Programmers conceive and host WAYO's programming content.
 
-A document's version number should be listed near the top of the document along with the version's date of publication.
+### Volunteers
 
-### Station Roles
-
-**CREW**: Crew serve on workgroups to directly support the operation and direction of WAYO
-
-**PROGRAMMERS**: Programmers host shows, and are encouraged to serve as **crew** or as **volunteers** (and vice versa)
-
-**VOLUNTEERS**: Volunteers help with general station tasks as identified by workgroups and are not considered **crew**. As with **crew**, **volunteers** can (and are encouraged to!) be **programmers** as well
+Volunteers help with general station tasks as identified by [workgroups](#workgroups), on an as-needed basis. 
 
 ## Workgroups 
 
 ### Overview
 
-A **workgroup** is a small group of **crew** working towards the same goal, with occasional help from **volunteers**.
+A **workgroup** is a small group of [crew](#crew) working towards the same goal, with occasional help from [volunteers](#volunteers).
 
 - Each workgroup operates according to guidelines defined in their group's charter
 - Workgroups have regularly scheduled meetings
@@ -132,7 +123,7 @@ The Accordion Structure is a strategy that can be used to accommodate periods of
 - When 1 or more workgroups within a single domain has only 1 crew member or has two crew members and wishes to enact the Accordion Structure
   - This workgroup can be considered **depleted** and the Accordion Structure should be enacted for that domain
 
-**NOTE:** The Guidance domain is a special case which cannot enact the Accordion Structure. In the case of a short-staffed **Money** workgroup, the Steering Committee may provide support for the Money group or assume its responsibilities entirely. See the Steering Committee section below for more information.  
+**NOTE:** The [Guidance domain](#guidance) is a special case which cannot enact the Accordion Structure. In the case of a short-staffed Money workgroup, the Steering Committee may provide support for the Money group or assume its responsibilities entirely. See the [Steering Committee](#steering-committee) section below for more information.
 
 #### How to enact the Accordion Structure:
 
@@ -152,7 +143,7 @@ The Accordion Structure is a strategy that can be used to accommodate periods of
 
 ### Workgroup Charters
 
-Each workgroup defines and maintains a **charter**: a living document that describes the group's responsibilities, meetings, and how the group interacts with other workgroups. Each charter must answer the following questions, although a workgroup may include additional information:
+Each workgroup defines and maintains a **charter**: a [living document](#living-documents) that describes the group's responsibilities, meetings, and how the group interacts with other workgroups. Each charter must answer the following questions, although a workgroup may include additional information:
 - What is this group’s mission?*
 - What are this group’s responsibilities?*
 - How can people contact this group? (Slack channel, Slack user group, email address, etc)
@@ -168,8 +159,9 @@ Each workgroup defines and maintains a **charter**: a living document that descr
 
 #### Making changes to a charter
 
-Charters can and should be updated as needed, but a standard process should be followed. Workgroups should discuss revisions together and make an announcement to the other workgroups when a new version of the charter is released.
-Some charter changes will require approval from the Steering Committee before the new version can be released. These are the four questions marked with asterisks above, as they concern the specific role and responsibilities of the workgroup and how it fits in with the rest of WAYO. Any change to the answers for these questions should be submitted as a draft proposal to the Steering Committee for approval. Additionally, the Steering Committe must approve the initial version of any workgroup's charter prior to its first publication.
+Charters can and should be updated as needed, but a [standard process should be followed](#updating-living-documents). Workgroups should discuss revisions together and make an announcement to the other workgroups when a new version of the charter is released.
+
+Some charter changes will require approval from the Steering Committee before the new version can be released. These are the four questions marked with asterisks above, as they concern the specific role and responsibilities of the workgroup and how it fits in with the rest of WAYO. When following the process to [update a living document](#updating-living-documents), make sure that a representative from the Steering Committee is included as a reviewer. Additionally, the Steering Committe must approve the initial version of any workgroup's charter prior to its first publication.
 
 #### A workgroup's initial charter
 
@@ -192,7 +184,7 @@ The **Steering Committee** workgroup has certain unique attributes compared to o
   - Past Steering Committee members may serve on other WAYO workgroups. 
 - Terms are staggered, such that approximately half of the Committee changes over each year.
   - Example: 3 members start a 2-year term in 2021, then 4 members start a 2-year term in 2022.
-- To be eligible to serve on the Steering Committee, a person must have been a WAYO **programmer** or **crew** member (on another workgroup) for at least 1 year.
+- To be eligible to serve on the Steering Committee, a person must have been a WAYO [programmer](#programmers) or [crew](#crew) (on another workgroup) for at least 1 year.
   - Exceptions to this rule can be made in the name of diversity.
 - WAYO station leadership as of March 2021 will collaborate to define the process for recruiting initial Steering Committee members. The process must meet these requirements: 
   - The process must be defined in writing and published in the WAYO GitHub organization.
@@ -211,9 +203,24 @@ This section of the handbook is intended to store station-wide policies as set o
 
 ## Procedures
 
-### Updating Living Documents
+### Living Documents
 
-The procedure outlined here leverages built-in GitHub functionality to allow WAYO crew to propose changes to a [Living Document](#living-document), and for those changes to be reviewed and eventually approved or rejected by the appropriate workgroup or workgroup(s). GitHub uses the concept of "branches" to allow multiple concurrent versions of the same file repository to be stored, which allows the published version of a document to be stored as the "master" or main branch, and a draft of the next version to be stored as an "editing" branch. Then, when the draft is ready to be published, the "editing" branch is "merged" into the main branch and becomes the new published version. 
+Important WAYO documentation is maintained as **Living Documents**. A living document is always evolving; each document can be updated when needed and the station operates based upon the contents of each document's latest version. 
+
+WAYO's documentation is stored in the [wayofm organization](https://github.com/wayofm/) on GitHub, which has built-in features to track the change history of each document and to allow revision proposals to be reviewed and approved, and eventually published as a new version.
+
+#### Versioning 
+
+Each living document has a three-part version number like `1.10.2`, following the concept of [Semantic Versioning](https://semver.org/):
+- A small correction (fixing spelling, improving clarity) is considered a **patch** version update and results in the third number increasing (i.e. `1.10.2` -> `1.10.3`)
+- A change to a policy or procedure, or any change that would modify WAYO's operations, is considered a **minor** version update and results in the second number increasing (i.e. `1.10.2` -> `1.11.0`)
+- A change that amounts to a signficant reworking or overhaul of a given document is considered a **major** version update and results in the first number increasing (i.e. `1.10.2` -> `2.0.0`)
+
+A document's version number should be listed near the top of the document along with the version's date of publication.
+
+#### Updating Living Documents
+
+Built-in GitHub functionality can be leveraged to allow WAYO crew to propose changes to a living document, and for those changes to be reviewed and eventually approved or rejected by the appropriate workgroup or workgroup(s). GitHub uses the concept of "branches" to allow multiple concurrent versions of the same file repository to be stored, which allows the published version of a document to be stored as the "master" or main branch, and a draft of the next version to be stored as an "editing" branch. Then, when the draft is ready to be published, the "editing" branch is "merged" into the main branch and becomes the new published version. 
 
 **Note**: When a new Living Document repository is created in GitHub, a [branch protection rule](https://docs.github.com/en/github/administering-a-repository/managing-a-branch-protection-rule) should be configured so that changes cannot be made to the master branch directly. When configuring the rule, enter "master" as the **branch name pattern**, check the box for **Require pull request reviews before merging**, set **Required approving reviews** to 2 or more, check the box for **Dismiss stale pull request approvals when new commits are pushed**, and check the box for **Include administrators**. Finally, click **Create**.
 
