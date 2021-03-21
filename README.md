@@ -1,6 +1,6 @@
 # WAYO-LP 104.3FM ("WAYO") Station Handbook
 
-Version 0.0.1 - 03/XX/2021
+Version 0.0.1 - 03/21/2021
 
 ## Table of Contents
 
@@ -8,6 +8,8 @@ Version 0.0.1 - 03/XX/2021
 - [Station Mission Statement](#station-mission-statement)
 - [Station Roles](#station-roles)
 - [Workgroups](#workgroups)
+- [Rituals](#rituals)
+- [Strategic Planning Process](#strategic-planning-process)
 - [Policies](#policies)
 - [Procedures](#procedures)
 
@@ -314,7 +316,11 @@ Most Slack users will not get a notification if a message is posted to a channel
 Threads are great. They keep Slack from getting cluttered. If you have multiple conversations happening in parallel, they help keep the conversations distinct. You can easily see all the prior discussion on a given issue. If someone posts a single message to a channel and you want to reply to it, start a thread! Another nice thing about threads is that anyone who has replied to a specific thread will get notifications whenever someone else replies, even if they don't include any tags. When starting a discussion of your own, try to express yourself in a single message so that it can be easily turned into a thread.
 
 #### Slack Workflows
-Workgroups are encouraged to use the Slack [workflow builder](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) to create standardized processes for internal decision making and external request submission. For example:
+Workgroups are encouraged to use the Slack [workflow builder](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) to create standardized processes for decision making and external request submission. For example:
 
-- **Internal decision making**
+- **Internal workgroup decision making**
 A workflow can be created that allows a workgroup member to make a specific proposal to the other members of that workgroup. The workflow will post the proposal to the workgroup's channel and automatically tag the Slack user group for that workgroup. The other members of the workgroup can then each either react with a specific emoji to approve the proposal, or a different emoji to flag the proposal for discussion in their next meeting. If all members of the workgroup respond with approval, the proposal can move forward, but if one or more members flag it for discussion, a group discussion should ensue to reach a consensus (perhaps resulting in an amended proposal which can restart the process). 
+- **Decision making involving multiple workgroups**
+A workflow can be created in the Steering Committee channel to allow a crew member to make a proposal that either impacts multiple workgroups or the organization as a whole. This workflow will post the proposal to the Steering Committee channel and automatically tag the Steering Committee's Slack user group. The Steering Committee can then assist to identify and tag the other workgroups that need to weigh in on that particular topic. The workgroups that have been tagged can then use emojis to react to the proposal, either to approve or to flag it for further discussion. If one or more people flag the topic for discussion, a meeting should be scheduled to determine a course forward. No action should be taken until all tagged workgroups have had a chance to respond. 
+- **Request submissions**
+Workgroups can create workflows within their own channel to handle common requests from other workgroups. For example, the Website workgroup could create a workflow for the Programming workgroup to use when requesting an update to the online programming schedule. Workflows of this type should prompt the requesting user to fill in required information and then automatically tag the people who will need to take action. 
