@@ -197,6 +197,47 @@ The **Steering Committee** workgroup has certain unique attributes compared to o
   - For the initial 2021 Steering Committee recruitment, 3 of the approved nominees, selected at random, will serve a 1-year term instead of 2 years.   
 - In any given year, when new Steering Committee members have been selected, there will be an overlap period of approximately one month where all current, incoming, and outgoing members collaborate to onboard the new members and align their efforts to ensure a consistency of vision.         
 
+## Rituals
+
+The following rituals are designed to create transparent, collaborative spaces for WAYO crew, programmers, and volunteers to work together on station priorities.
+
+All of these rituals are open to all WAYO roles to attend. Upcoming meetings are posted to a dedicated Slack channel based on the WAYO calendar for the week. To promote equitable access to WAYO rituals, meetings are offered virtually when possible and recorded for future playback.
+
+- Strategic Planning Workshop
+  - When: January
+  - Who: all crew
+  - Frequency: 1x annually
+  - Duration: 3.5-hour workshop
+  - Purpose: During the annual Strategic Planning Workshop, WAYO crew should establish a strategic plan for the station for the year. A Strategic Plan should outline 3-6 SMART (specific, measurable, attainable, relevant, time-oriented) goals that the station aims to accomplish that year. Crew should determine these goals through brainstorming activities, review of previous year(s)’ progress, and recommendations from the Steering Committee. During this workshop, crew should also discuss the success of the prior year’s Strategic Plan and lessons learned/opportunities for the future. Ideally, the Steering Committee should facilitate/lead the Strategic Planning Workshop and plan to include as many brainstorming or engaging activities as possible to ensure diverse input and thoughtful consideration of station priorities.
+  - Tentative Agenda:
+    -  ~45-60 minutes reviewing prior year’s Strategic Plan
+    -  ~2.5-hours brainstorming SMART goals for the current year’s Strategic Plan
+
+- Town Hall
+  - When: quarterly, generally around the same time each quarter (e.g., within the 2nd month)
+  - Who: all crew
+  - Duration: 60-90 minutes
+  - Purpose: This meeting is facilitated by the Steering Committee and designed to bring together all crew members to discuss workgroup updates, share station news, and explore opportunities for collaboration and/or decision making. Each workgroup should come ready to provide a status report on current projects, needs, and ideas/future planned work (especially work that may impact other workgroups). The Steering Committee will also use this time to review progress towards WAYO’s Strategic Plan and help plan for the next Programmer Meeting. 
+  - Tentative Agenda:
+     - ~5 minutes: Station news/general updates
+     - MAX 3 minutes per workgroup: Workgroup Report Out 
+     - ~25 minutes: Review general progress towards Strategic Plan
+     - ~20 minutes: Plan for next Programmer Meeting
+
+- Programmer Meeting
+  - When: quarterly, generally 1 month after the Town Hall
+  - Who: all crew and all programmers
+  - Duration: 60 minutes
+  - Logistics: offered on Zoom and in-person when possible; invite/announcement should be made at least a couple weeks in advance over Slack, email, and text blast, with a reminder the week of
+  - Purpose: This meeting is facilitated by the Steering Committee and designed to bring together crew and programmers to announce policy updates, volunteering opportunities, and upcoming station initiatives/events (e.g., fundraising campaign). This space can also be used to make decisions that require programmer input. The Steering Committee should coordinate the agenda roughly 1 month prior with input from crew at a Town Hall meeting. 
+
+- Open Hours
+  - When: biweekly
+  - Who: workgroups that need to interface with other workgroups
+  - Duration: 60 minutes
+  - Logistics: If a workgroup identifies a need to meet with another workgroup(s) during Open Hours, that workgroup shoud request the other workgroup(s) to join them at the upcoming Open Hours.
+  - Purpose: This meeting is designed to be an open space for workgroups to meet to collaborate on mutual projects/goals.
+
 ## Policies
 
 This section of the handbook is intended to store station-wide policies as set out by the future Steering Committee, such as a Sexual Harrassment policy and a Diversity/Inclusion policy.
