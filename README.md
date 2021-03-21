@@ -296,9 +296,25 @@ Now, crew can propose changes to a document by following these steps:
 6. Click the **Pull requests** tab at the top of the repository (**below** the repository name, not the one at the very top of the page). After clicking the tab, you should see a message like "{branch name} had recent pushes 1 minute ago". Click the **Compare & pull request** button to the right of this message.
 7. Fill out the **Open a pull request** form. Give your pull request a **title** briefly describing your proposal (i.e. "Add a conflict resolution policy") and in the **Leave a comment** field, give any necessary additional details or context regarding why you are proposing this change. This could include background history around a particular issue, or prior decisions that have led to this proposed change. Finally, click **Create pull request**.
 8. Now that the Pull Request is open, relevant workgroups can review the proposed changes. This is done by clicking the **Files changed** tab of the pull request and then clicking the **Review changes** button on the far right. Reviewers can either add comments, request changes, or immediately approve the pull request. 
-9. When enough reviewers have added their approvals, the pull request is able to be merged. The merge should be performed by the workgroup that maintains the document in question. Before merging, the workgroup should verify that the document's version number has been increased appropriately, [following these guidelines](#versioning). Then, the merge can be done by clicking the **Merge pull request** button at the bottom of the pull request form (on the **Conversation** tab).
-10. The new version of the document has now been published, and should be announced to the rest of the station using an agreed-upon method.
+9. When enough reviewers have added their approvals, the pull request is able to be merged. The merge should be performed by the workgroup that maintains the document in question. Before merging, the workgroup should verify that the document's version number has been increased appropriately, [following these guidelines](#versioning). Then, the merge can be done by clicking the **Merge pull request** button at the bottom of the pull request form (on the **Conversation** tab.
+10. After merging, the branch should be deleted by clicking the **Delete branch** button at the bottom of the merged pull request.
+11. The new version of the document has now been published, and should be announced to the rest of the station using an agreed-upon method.
 
+### Slack Usage
 
-### Making Proposals Through Slack Workflows
+WAYO uses Slack for asynchronous crew communication and as part of the crew decision making process. 
 
+#### General Recommendations for Effective Slack Communication
+
+- **Put your message in the appropriate channel**
+When starting a conversation in Slack, think about what would be the most appropriate place for that conversation to happen. Internal workgroup discussions should happen within that workgroup's channel, for example. Similarly, if you have a question for a workgroup that you're not part of, post your question in that workgroup's channel. For topics that involve more than one workgroup or the organization as a whole, the Steering Committee's channel is generally best, as they can help ensure that the appropriate people are involved in the discussion. If you feel that there is a need for a new channel, make a proposal to the People & Placement workgroup for one to be created.
+- **Use tags to make sure your message reaches the right people**
+Most Slack users will not get a notification if a message is posted to a channel without using any tags. Generally, it is preferable to tag groups of people instead of individuals. For example, each workgroup should maintain a Slack "user group", which is a tag like `@communications-crew` that will notify all members of that workgroup. You can also use a tag like `@channel` to notify all members of a given channel, but this may cause unrelated people to be notified. 
+- **Always use threads**
+Threads are great. They keep Slack from getting cluttered. If you have multiple conversations happening in parallel, they help keep the conversations distinct. You can easily see all the prior discussion on a given issue. If someone posts a single message to a channel and you want to reply to it, start a thread! Another nice thing about threads is that anyone who has replied to a specific thread will get notifications whenever someone else replies, even if they don't include any tags. When starting a discussion of your own, try to express yourself in a single message so that it can be easily turned into a thread.
+
+#### Slack Workflows
+Workgroups are encouraged to use the Slack [workflow builder](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) to create standardized processes for internal decision making and external request submission. For example:
+
+- **Internal decision making**
+A workflow can be created that allows a workgroup member to make a specific proposal to the other members of that workgroup. The workflow will post the proposal to the workgroup's channel and automatically tag the Slack user group for that workgroup. The other members of the workgroup can then each either react with a specific emoji to approve the proposal, or a different emoji to flag the proposal for discussion in their next meeting. If all members of the workgroup respond with approval, the proposal can move forward, but if one or more members flag it for discussion, a group discussion should ensue to reach a consensus (perhaps resulting in an amended proposal which can restart the process). 
