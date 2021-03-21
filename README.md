@@ -208,7 +208,7 @@ All of these rituals are open to all WAYO roles to attend. Upcoming meetings are
   - Who: all crew
   - Frequency: 1x annually
   - Duration: 3.5-hour workshop
-  - Purpose: During the annual Strategic Planning Workshop, WAYO crew should establish a strategic plan for the station for the year. A Strategic Plan should outline 3-6 SMART (specific, measurable, attainable, relevant, time-oriented) goals that the station aims to accomplish that year. Crew should determine these goals through brainstorming activities, review of previous year(s)’ progress, and recommendations from the Steering Committee. During this workshop, crew should also discuss the success of the prior year’s Strategic Plan and lessons learned/opportunities for the future. Ideally, the Steering Committee should facilitate/lead the Strategic Planning Workshop and plan to include as many brainstorming or engaging activities as possible to ensure diverse input and thoughtful consideration of station priorities.
+  - Purpose: During the annual Strategic Planning Workshop, WAYO crew should establish a strategic plan for the station for the year. For more information on the Strategic Planning Process, please see the section below titled Strategic Planning Process. At the Strategic Planning Workshop, crew should determine the goals for the year through brainstorming activities, review of previous year(s)’ progress, and recommendations from the Steering Committee. During this workshop, crew should also discuss the success of the prior year’s Strategic Plan and lessons learned/opportunities for the future. Ideally, the Steering Committee should facilitate/lead the Strategic Planning Workshop and plan to include as many brainstorming or engaging activities as possible to ensure diverse input and thoughtful consideration of station priorities.
   - Tentative Agenda:
     -  ~45-60 minutes reviewing prior year’s Strategic Plan
     -  ~2.5-hours brainstorming SMART goals for the current year’s Strategic Plan
@@ -235,8 +235,29 @@ All of these rituals are open to all WAYO roles to attend. Upcoming meetings are
   - When: biweekly
   - Who: workgroups that need to interface with other workgroups
   - Duration: 60 minutes
-  - Logistics: If a workgroup identifies a need to meet with another workgroup(s) during Open Hours, that workgroup shoud request the other workgroup(s) to join them at the upcoming Open Hours.
   - Purpose: This meeting is designed to be an open space for workgroups to meet to collaborate on mutual projects/goals.
+  - Logistics: If a workgroup identifies a need to meet with another workgroup(s) during Open Hours, that workgroup shoud request the other workgroup(s) to join them at the upcoming Open Hours and discuss project needs.
+
+## Strategic Planning Process
+
+**Overview:**
+WAYO is guided first and foremost by our Mission, but also by our annual Strategic Plan. Rooted in our Mission yet sensitive to competing priorities, current contexts, and budget constraints, our Strategic Plan helps us to identify, prioritize, and measure actionable goals for the coming year.
+
+**Details:**
+-  The Strategic Plan includes 3-6 SMART (specific, measurable, attainable, relevant, time-oriented) goals that the station aims to accomplish that year. Each goal includes defined milestones and time estimates for completion.
+-  Workgroups also create their own Strategic Plans. These plans should align with the station-wide plan but also set goals unique to that workgroup or larger domain. 
+
+**Process for Station-wide Strategic Plan:**
+ - Development for the station-wide Strategic Plan begins at the Strategic Planning Workshop in January. Here, WAYO crew should draft a semi-finalized list of 3-6 SMART goals through brainstorming activities, review of previous year(s)’ progress, and recommendations from the Steering Committee. During this workshop, crew should also discuss the success of the prior year’s Strategic Plan and lessons learned/opportunities for the future. Ideally, the Steering Committee should facilitate/lead the Strategic Planning Workshop and plan to include as many brainstorming or engaging activities as possible to ensure diverse input and thoughtful consideration of station priorities.
+ - In the days following the Strategic Planning Workshop, the Steering Committee should solicit input from crew and, if needed, programmers and/or volunteers, on the draft list of goals. Within 2 weeks of the workshop, the Steering Committee should finalize the list of goals and thereby approve the Strategic Plan for the year.
+ - Once the Strategic Plan is approved, the Steering Committee should then publish and announce the plan at the next Town Hall meeting to keep crew, programmers, and volunteers informed and aligned.
+ - Review of progress:
+   -   Once per quarter at the Town Hall meeting, the Steering Committee and crew reviews the station’s progress towards each of the goals in the Strategic Plan.
+
+**Process for Workgroup Specific Strategic Plan:**
+- Once the Station-wide Strategic Planning Workshop has occurred, individual workgroups should also discuss their goals and interests for the year. Workgroups can individualize their approach to developing a finalized Strategic Plan, but like the station-wide plan, it should include 3-6 SMART goals they aim to achieve that year. These plans should be approved first by the workgroup, then by the Steering Committee. Finalized plans are  then published on the workgroup’s online database (e.g., GitHub) for reference.
+- Review of Progress:
+  - Once per quarter, each workgroup should review their progress towards each of the goals in their Strategic Plan.
 
 ## Policies
 
